@@ -4,6 +4,7 @@
 
 #### 🍒 Interest
 - Video Coding : HEVC/H.265, VVC/H.266
+- Prediction Coding
 
 #### 🏆 Award
 - 2020 서울시와 ICT콤플렉스가 함께하는 ICT콕 AI 공모전 장려상
