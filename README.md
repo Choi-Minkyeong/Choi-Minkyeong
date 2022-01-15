@@ -1,16 +1,12 @@
-### Hi there 👋
+#### ❤ About me 
+- Sejong Univ. (2017.03~)
+- Digital Media System lab (2021.03~)
 
-<!--
-**Choi-Minkyeong/Choi-Minkyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🍒 Interest
+- Video Coding : HEVC/H.265, VVC/H.266
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🏆 Award
+- 2020 서울시와 ICT콤플렉스가 함께하는 ICT콕 AI 공모전 장려상
+- 2020 앵커밸류 FINTECH-AI 해커톤 2위
+- 2021 세종대학교 제11회 창의설계경진대회 최우수상
+- 2021 세종대학교 제11회 창의설계경진대회 인기상
